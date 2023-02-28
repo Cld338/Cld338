@@ -4,12 +4,12 @@
 			<style type="text/css">
 				.duckcover {
 					align-self: center;
-					animation: motion 15s linear 0s infinite alternate;
+					animation: motion 7.5s linear 0s infinite alternate;
 				}
 
 				@keyframes motion {
 					0% {
-						margin-left: -70%;
+						margin-left: 0%;
 						margin-right: 0;
 					}
 
