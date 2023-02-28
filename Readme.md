@@ -12,5 +12,6 @@
 ![Js](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 
+![Flask](https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cld338&show_icons=true&theme=transparent)
