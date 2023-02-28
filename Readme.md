@@ -7,7 +7,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wlgns06)](https://solved.ac/wlgns06)
 
 <!-- 기술 스택 -->
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/?&style=for-the-badge&logo=Java&logoColor=white)
 ![Java](https://img.shields.io/badge/HTML5-#E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cld338&show_icons=true&theme=transparent)
