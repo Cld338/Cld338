@@ -39,7 +39,7 @@
 				}
 			</style>
 			<div class="duckcover">
-				<img class="psyduck" src="./images/psyduck.gif" alt="" style="width: 8vw; height: 6vw;">
+				<img class="psyduck" src="./psyduck.gif" alt="" style="width: 8vw; height: 6vw;"></img>
 			</div>
 		</div>
 	</foreignObject>
