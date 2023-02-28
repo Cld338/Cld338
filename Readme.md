@@ -53,8 +53,7 @@
 			transform: scaleX(1);
 		}
 	}
-</style>
-')
+</style>')
 <div class="duckcover">	
     <img class="psyduck" src="./images/psyduck.gif" alt="" style="width: 8vw; height: 6vw;">
 </div>
