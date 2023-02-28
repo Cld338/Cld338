@@ -21,39 +21,4 @@
 | <a href="#"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cld338&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="Cld338's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cld338&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-
-(setq markdown-xhtml-header-content'
-<style type="text/css">
-	.duckcover {
-		align-self: center;
-		animation: motion 15s linear 0s infinite alternate;
-	}
-	@keyframes motion {
-		0% {
-			margin-left: -70%;
-			margin-right: 0;
-		}
-		100% {
-			margin-left: 70%;
-		}
-	}
-	.psyduck {
-		align-self: center;
-		animation: motion2 30s step-end infinite;
-		margin-bottom: -7px;
-	}
-	@keyframes motion2 {
-		0% {
-			transform: scaleX(1);
-		}
-		50% {
-			transform: scaleX(-1);
-		}
-		100% {
-			transform: scaleX(1);
-		}
-	}
-</style>')
-<div class="duckcover">	
-    <img class="psyduck" src="./images/psyduck.gif" alt="" style="width: 8vw; height: 6vw;">
-</div>
+<img src="./images/orapaduck.svg" width="400" height="400" alt="css-in-readme">
