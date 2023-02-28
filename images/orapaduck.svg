@@ -1,0 +1,46 @@
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style type="text/css">
+				.duckcover {
+					align-self: center;
+					animation: motion 15s linear 0s infinite alternate;
+				}
+
+				@keyframes motion {
+					0% {
+						margin-left: -70%;
+						margin-right: 0;
+					}
+
+					100% {
+						margin-left: 70%;
+					}
+				}
+
+				.psyduck {
+					align-self: center;
+					animation: motion2 30s step-end infinite;
+					margin-bottom: -7px;
+				}
+
+				@keyframes motion2 {
+					0% {
+						transform: scaleX(1);
+					}
+
+					50% {
+						transform: scaleX(-1);
+					}
+
+					100% {
+						transform: scaleX(1);
+					}
+				}
+			</style>
+			<div class="duckcover">
+				<img class="psyduck" src="./images/psyduck.gif" alt="" style="width: 8vw; height: 6vw;">
+			</div>
+		</div>
+	</foreignObject>
+</svg>
