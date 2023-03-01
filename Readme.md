@@ -19,6 +19,7 @@
 
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=for-the-badge&logo=OpenCV&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-4D4D4D.svg?&style=for-the-badge&logo=Windows Terminal&logoColor=white)
 
 
 
