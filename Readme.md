@@ -6,6 +6,8 @@
 <!-- 백준 info -->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wlgns06)](https://solved.ac/wlgns06)
 
+[![Badge](https://po76kjrfci64.runkit.sh)](https://git.io/gradientbadge)
+
 <!-- 기술 스택 -->
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -21,4 +23,3 @@
 | <a href="#"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cld338&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="Cld338's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cld338&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-[![Badge](https://po76kjrfci64.runkit.sh)](https://git.io/gradientbadge)
