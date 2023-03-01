@@ -21,16 +21,13 @@
 | <a href="#"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cld338&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="Cld338's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cld338&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<script src="https://cdn.jsdelivr.net/npm/gradient-badge"></script>
-<script>
-    var svgString = gradientBadge({
-        const gradientBadge = require('gradient-badge');
-        const svgString = gradientBadge({
-            subject: 'version', // <text>
-            status: 'v1.2.3', // <text>
-            style: 'flat', // 'flat' or undefined, optional
-            // And any other parameter supported by badgen (icon, scale...)
-            gradient: ['pink', 'F78642'], // array of colors (Hexadecimal or name)
-        });
-    });
-</script>
+[![Badge](https://po76kjrfci64.runkit.sh)](https://git.io/gradientbadge)
+const gradientBadge = require('gradient-badge');
+exports.endpoint = function (req, resp) {
+    resp.setHeader('Content-Type', 'image/svg+xml');
+    resp.end(gradientBadge({
+        subject: '',
+        status: 'Wheelife',
+        gradient: ['fccb90', 'd17be6']
+    }));
+}
