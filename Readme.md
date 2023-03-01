@@ -22,12 +22,3 @@
 | ------------- | ------------- |
 
 [![Badge](https://po76kjrfci64.runkit.sh)](https://git.io/gradientbadge)
-const gradientBadge = require('gradient-badge');
-exports.endpoint = function (req, resp) {
-    resp.setHeader('Content-Type', 'image/svg+xml');
-    resp.end(gradientBadge({
-        subject: '',
-        status: 'Wheelife',
-        gradient: ['fccb90', 'd17be6']
-    }));
-}
