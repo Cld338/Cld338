@@ -7,7 +7,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wlgns06)](https://solved.ac/wlgns06)
 
 
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge)
+![Python](https://img.shields.io/badge/Working Project-lightgray.svg?&style=for-the-badge)
 [![Badge](https://po76kjrfci64.runkit.sh)](https://git.io/gradientbadge)
 
 <!-- 기술 스택 -->
