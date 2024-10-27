@@ -1,6 +1,7 @@
 # About Me
 
-![image|0.1](https://github.com/user-attachments/assets/d4b50b18-3cb2-4b49-b58f-c8239d4cac85)
+<img src="https://user-images.githubusercontent.com/51365114/119627750-716f3100-be47-11eb-8e83-686b23c2c161.png  width="200"/>
+
 
 )
 <!-- 깃헙 방문자 수 -->
