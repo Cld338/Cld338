@@ -6,6 +6,6 @@
 <!-- 백준 info -->
 [![Kaggle 프로필](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/wlgns6) <br>
 [![Solved.ac 프로필](https://mazandi.herokuapp.com/api?handle=wlgns06&theme=warm)](https://solved.ac/wlgns06)<br>
-<img src="https://github.com/user-attachments/assets/1de45f67-b9bd-416e-b788-c2fd121a8454"  width="800"/>
+<img src="https://github.com/user-attachments/assets/076fc54b-cdd1-4a0d-b57d-76834ec90059"  width="600"/>
 | <a href="#"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cld338&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="Cld338's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cld338&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
