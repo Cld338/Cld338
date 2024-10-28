@@ -8,6 +8,6 @@
 [![Solved.ac 프로필](https://mazandi.herokuapp.com/api?handle=wlgns06&theme=warm)](https://solved.ac/wlgns06)<br>
 <img src="https://solved-ac-rating.run.goorm.site/user-rating-image?name=wlgns06" width="600" href="https://solved.ac/profile/wlgns06/history" />
 
-
+![](https://solved-ac-rating.run.goorm.site/user-rating-image?name=wlgns06)
 | <a href="#"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cld338&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="Cld338's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cld338&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
