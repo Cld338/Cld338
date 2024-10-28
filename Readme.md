@@ -6,7 +6,7 @@
 <!-- 백준 info -->
 [![Kaggle 프로필](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/wlgns6) <br>
 [![Solved.ac 프로필](https://mazandi.herokuapp.com/api?handle=wlgns06&theme=warm)](https://solved.ac/wlgns06)<br>
-<img src="https://solved-ac-rating.run.goorm.site/user-rating-image?name=wlgns06"/>
+<img src="https://solved-ac-rating.run.goorm.site/user-rating-image?name=wlgns06" width="600" />
 <img
   class="fit-picture"
   src="/media/cc0-images/grapefruit-slice-332-332.jpg"
