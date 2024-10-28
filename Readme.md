@@ -7,7 +7,7 @@
 [![Kaggle 프로필](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/wlgns6) <br>
 [![Solved.ac 프로필](https://mazandi.herokuapp.com/api?handle=wlgns06&theme=warm)](https://solved.ac/wlgns06)<br>
 
-![Solved.ac 레이팅](https://solved-ac-rating.run.goorm.site/user-rating-image?size=50)
+[![Solved.ac 레이팅](https://solved-ac-rating.run.goorm.site/user-rating-image?size=50)](https://solved.ac/profile/wlgns06)
 
 | <a href="#"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cld338&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="Cld338's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cld338&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
