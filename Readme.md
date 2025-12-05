@@ -7,8 +7,7 @@
 -->
 <!-- 백준 info -->
 <!-- [![Kaggle 프로필](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/wlgns6) <br> -->
-[![Solved.ac 프로필](https://mazandi.herokuapp.com/api?handle=wlgns06&theme=warm)](https://solved.ac/wlgns06)<br>
-[![Solved.ac 프로필](https://voltage-parks-instrument-challenges.trycloudflare.com/user-rating-image?name=wlgns06&theme=dark&format=svg)](https://solved.ac/wlgns06)
+[![Solved.ac 프로필](https://mazandi.herokuapp.com/api?handle=wlgns06&theme=warm)](https://solved.ac/wlgns06)[![Solved.ac 프로필](https://voltage-parks-instrument-challenges.trycloudflare.com/user-rating-image?name=wlgns06&theme=dark&format=svg)](https://solved.ac/wlgns06)
 
 
 
